@@ -487,12 +487,38 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20190627-ron-jsmit-1138x853.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190627-ron-jsmit-1138x853-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "\t2019-6-19 Prof. Roy visited Jiangsu Institute of Medical Device Testing.",
+                "active": true
+              },
+              {
+                "tags": "Recent",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/20190627-ron-southeast-1195x898.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190627-ron-southeast-1195x898-800x601.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": " 2019-06-25 Prof. Roy visited School of Biological Science and Medical Engineering (SBSME), Southeast University.&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Recent",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/20190619-pumch-2000x1500.jpeg",
                 "thumb": "@PROJECT_PATH@/assets/images/20190619-pumch-2000x1500-800x482.jpeg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "\t2019-6-19 Jiangang visited Peking Union Medical College Hospital (PUMCH) in Beijing to discuss with the doctors of ICU of PUMCH on collaboration of ultrasound artificial intelligence for critical care.",
+                "caption": "\t2019-6-19 Jiangang visited Peking Union Medical College Hospital (PUMCH) in Beijing to discuss with the doctors of ICU of PUMCH on collaborations.",
                 "active": false
               },
               {
@@ -519,7 +545,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "\t2019-5-27 Jiangang visited the Institute of Medical Devices (Suzhou), Southeast University for a further discussion on the on-going projects.",
-                "active": true
+                "active": false
               },
               {
                 "tags": "1st half of 2019",
