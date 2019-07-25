@@ -1497,6 +1497,9 @@ body {
 .cid-rx3jI9KP82 .card-img:hover .mbr-section-btn {
   opacity: 1;
 }
+.cid-rx3jI9KP82 .mbr-section-title {
+  color: #ffffff;
+}
 .cid-rx8AblhvvU {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1612,7 +1615,7 @@ body {
 .cid-rx8Wj3Vo5K {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #149dcc;
+  background-color: #0f7699;
 }
 .cid-rx8Wj3Vo5K .mbr-section-subtitle {
   color: #ffffff;
