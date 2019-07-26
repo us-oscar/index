@@ -1485,157 +1485,10 @@ body {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
 }
-.cid-rx3jI9KP82 {
-  padding-top: 75px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/ou-2-550x343.jpg");
-}
-.cid-rx3jI9KP82 .mbr-section-subtitle,
-.cid-rx3jI9KP82 .mbr-text {
-  color: #767676;
-}
-.cid-rx3jI9KP82 .card {
-  display: -webkit-flex;
-  position: relative;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rx3jI9KP82 .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rx3jI9KP82 .card-wrapper .card-img {
-  display: -webkit-flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  overflow: hidden;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
-  -webkit-flex-direction: column;
-  -webkit-align-items: center;
-  -webkit-justify-content: center;
-}
-.cid-rx3jI9KP82 .card-wrapper .card-img .mbr-overlay {
-  background-color: #ffffff;
-  display: none;
-  transition: opacity .3s;
-}
-.cid-rx3jI9KP82 .card-wrapper .card-img .mbr-section-btn {
-  position: absolute;
-  transition: opacity .3s;
-  width: 100%;
-  left: 0;
-  top: 50%;
-  height: auto;
-  transform: translateY(-50%);
-}
-.cid-rx3jI9KP82 .card-wrapper .card-img img {
-  width: 100%;
-}
-.cid-rx3jI9KP82 .card-wrapper .card-box {
-  background-color: #ffffff;
-  padding: 0 2rem 2rem 2rem;
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-.cid-rx3jI9KP82 .card-wrapper .card-box h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  padding-top: 2rem;
-}
-.cid-rx3jI9KP82 .card-wrapper .card-box p {
-  margin-bottom: 0;
-  padding-top: 1.5rem;
-}
-.cid-rx3jI9KP82 .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-}
-.cid-rx3jI9KP82 .card-img .mbr-overlay {
-  display: block !important;
-  opacity: 0;
-}
-.cid-rx3jI9KP82 .card-img .mbr-section-btn {
-  opacity: 0;
-}
-.cid-rx3jI9KP82 .card-img:hover .mbr-overlay {
-  opacity: .5;
-}
-.cid-rx3jI9KP82 .card-img:hover .mbr-section-btn {
-  opacity: 1;
-}
-.cid-rx3jI9KP82 .mbr-section-title {
-  color: #ffffff;
-}
-.cid-rx8AblhvvU {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/optical-table-435x326.jpg");
-}
-.cid-rx8AblhvvU .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rx8AblhvvU .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-rx8AblhvvU .mbr-figure img {
-    width: 100% !important;
-  }
-}
-.cid-rx8Butl4mj {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/acoustic-lab-1440x1080.jpg");
-}
-.cid-rx8Butl4mj .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rx8Butl4mj .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-rx8Butl4mj .mbr-figure img {
-    width: 100% !important;
-  }
-}
-.cid-rx8A8AKhe0 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/oxford-1-1182x722.jpg");
-}
-.cid-rx8A8AKhe0 .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-rx8A8AKhe0 .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-rx8A8AKhe0 .mbr-figure img {
-    width: 100% !important;
-  }
-}
 .cid-rx88QBRZJQ {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/ou-1-817x519.jpg");
+  background-image: url("../../../assets/images/ou-3-600x384.jpg");
 }
 .cid-rx88QBRZJQ .carousel-item {
   justify-content: center;
@@ -1679,6 +1532,79 @@ body {
   .cid-rx88QBRZJQ .user_image {
     width: 100%;
     height: auto;
+  }
+}
+.cid-rx88QBRZJQ .user_text {
+  color: #ffffff;
+}
+.cid-rx8AblhvvU {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/optical-table-435x326.jpg");
+}
+.cid-rx8AblhvvU .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rx8AblhvvU .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-rx8AblhvvU .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-rx8AblhvvU .mbr-text,
+.cid-rx8AblhvvU .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-rx8AblhvvU H1 {
+  color: #ffffff;
+}
+.cid-rx8Butl4mj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/acoustic-lab-1440x1080.jpg");
+}
+.cid-rx8Butl4mj .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rx8Butl4mj .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-rx8Butl4mj .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-rx8A8AKhe0 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/oxford-1-1182x722.jpg");
+}
+.cid-rx8A8AKhe0 .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-rx8A8AKhe0 .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-rx8A8AKhe0 .mbr-figure img {
+    width: 100% !important;
   }
 }
 .cid-rx8Wj3Vo5K {
