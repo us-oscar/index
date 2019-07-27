@@ -1416,25 +1416,49 @@ body {
 .cid-rx3aThbT8p {
   background-image: url("../../../assets/images/ou-4-580x330.jpg");
 }
-.cid-rxhQmqmlv8 {
-  padding-top: 90px;
+.cid-rxl2xSYEQw {
+  padding-top: 30px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/ou-1-817x519.jpg");
 }
-.cid-rxhQmqmlv8 .mbr-section-subtitle {
+.cid-rxl2xSYEQw .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
-.cid-rxhQmqmlv8 .mbr-content-text {
+.cid-rxl2xSYEQw .mbr-content-text {
   color: #232323;
   margin-bottom: 0;
 }
-.cid-rxhQmqmlv8 .card {
+.cid-rxl2xSYEQw .card {
   word-wrap: break-word;
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
 }
-.cid-rxhQmqmlv8 .cards-container {
+.cid-rxl2xSYEQw .img-text {
+  width: 64px;
+  height: 64px;
+  font-size: 32px;
+  border: 2px solid #efefef;
+  border-radius: 50%;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-rxl2xSYEQw .img-text {
+    width: 48px;
+    height: 48px;
+    font-size: 24px;
+  }
+}
+@media (min-width: 992px) {
+  .cid-rxl2xSYEQw .cards-block {
+    border-top: 2px solid #efefef;
+  }
+}
+.cid-rxl2xSYEQw .cards-block .card {
+  border-bottom: 2px solid #efefef;
+  border-radius: 0;
+}
+.cid-rxl2xSYEQw .cards-container {
   display: flex;
   -webkit-flex-direction: row;
   flex-direction: row;
@@ -1444,44 +1468,28 @@ body {
   justify-content: center;
   word-break: break-word;
 }
-.cid-rxhQmqmlv8 .media-block {
+.cid-rxl2xSYEQw .media-block {
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
 }
 @media (min-width: 992px) {
-  .cid-rxhQmqmlv8 .media-block {
+  .cid-rxl2xSYEQw .media-block {
     padding-left: 2rem;
   }
 }
-.cid-rxhQmqmlv8 .cards-block {
+.cid-rxl2xSYEQw .cards-block {
   flex-basis: 100%;
   -webkit-flex-basis: 100%;
 }
 @media (max-width: 991px) {
-  .cid-rxhQmqmlv8 .media-block {
+  .cid-rxl2xSYEQw .media-block {
     flex-basis: 100%;
     -webkit-flex-basis: 100%;
     padding-left: 0;
     padding-bottom: 2rem;
   }
 }
-@media (min-width: 768px) {
-  .cid-rxhQmqmlv8 .count {
-    width: 100px;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rxhQmqmlv8 .panel-item {
-    -webkit-flex-wrap: wrap;
-    flex-wrap: wrap;
-  }
-  .cid-rxhQmqmlv8 .card-img {
-    padding-bottom: 1rem;
-    padding-right: 0 !important;
-    margin: auto;
-  }
-}
-.cid-rxhQmqmlv8 .media-container-row {
+.cid-rxl2xSYEQw .media-container-row {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
 }
