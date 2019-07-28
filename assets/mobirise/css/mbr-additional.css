@@ -1416,6 +1416,10 @@ body {
 .cid-rx3aThbT8p {
   background-image: url("../../../assets/images/ou-4-580x330.jpg");
 }
+.cid-rx3aThbT8p .mbr-text,
+.cid-rx3aThbT8p .mbr-section-btn {
+  text-align: left;
+}
 .cid-rxl2xSYEQw {
   padding-top: 30px;
   padding-bottom: 90px;
@@ -1570,6 +1574,14 @@ body {
     width: 100% !important;
   }
 }
+.cid-rx8AblhvvU .mbr-text,
+.cid-rx8AblhvvU .mbr-section-btn {
+  color: #232323;
+  text-align: left;
+}
+.cid-rx8AblhvvU H1 {
+  color: #232323;
+}
 .cid-rx8Butl4mj {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1591,6 +1603,10 @@ body {
     width: 100% !important;
   }
 }
+.cid-rx8Butl4mj .mbr-text,
+.cid-rx8Butl4mj .mbr-section-btn {
+  text-align: left;
+}
 .cid-rx8A8AKhe0 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1611,6 +1627,14 @@ body {
   .cid-rx8A8AKhe0 .mbr-figure img {
     width: 100% !important;
   }
+}
+.cid-rx8A8AKhe0 .mbr-text,
+.cid-rx8A8AKhe0 .mbr-section-btn {
+  color: #232323;
+  text-align: left;
+}
+.cid-rx8A8AKhe0 H1 {
+  color: #232323;
 }
 .cid-rxqk1M1QRa {
   padding-top: 90px;
@@ -1692,7 +1716,7 @@ body {
   padding-top: 2rem;
 }
 .cid-rx3k4FIUFH .mbr-text {
-  color: #232323;
+  color: #ffffff;
   margin: 0;
   padding-top: 1.5rem;
 }
@@ -1736,4 +1760,10 @@ body {
   .cid-rx3k4FIUFH div.left-block.wrapper {
     padding-bottom: 3rem;
   }
+}
+.cid-rx3k4FIUFH H5 {
+  color: #ffffff;
+}
+.cid-rx3k4FIUFH H2 {
+  color: #ffffff;
 }
